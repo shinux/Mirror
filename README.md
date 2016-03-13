@@ -1,3 +1,3 @@
 # Mirror
 
-http://mirror.am0200.com/
+http://sinux.cc/
